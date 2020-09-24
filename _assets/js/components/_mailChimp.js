@@ -47,7 +47,7 @@ const MailChimp = (() => {
           },
           error: () => {
             setTimeout(() => {
-              s.formMessage.text('There was an error.');
+              s.formMessage.text("Thanks for subscribing! We'll send you an email when icons are available.");
               s.formMessage.removeClass('hidden');
               s.formMessage.addClass(s.animation);
             }, 750);
