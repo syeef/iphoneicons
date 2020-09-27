@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: okay@samesies.io
-baseurl: ""
+baseurl: https://iphoneicons.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
